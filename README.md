@@ -61,6 +61,5 @@ The sigmoid transforms the linear combination of features into a probability bet
 
 
 
-Ask ChatGPT
 
 
